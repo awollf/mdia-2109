@@ -5,6 +5,6 @@ This is a commit test. When I commit changes on this file, it will save a snapsh
 - [x] These list items can only be crossed off in edit mode.
 
 ## What is your favourite colour? ##
-- [] Yellow
-- [] Red
-- [] Green
+- Yellow
+- Red
+- Green
