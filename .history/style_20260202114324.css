@@ -21,7 +21,6 @@ color: white;
 font-family: 'Lucida Grande';
 font-weight: bold;
 background-color: darkgreen;
-padding: .5rem;
 }
 
 p {
@@ -41,7 +40,6 @@ ul {
     color: white;
     background-color: darkgreen;
     font-family: Lucinda Sans Regular;
-    padding: 1rem;
 }
 
 ol {

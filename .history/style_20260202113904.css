@@ -2,10 +2,9 @@ body {
     background-color: rgb(218, 255, 218);
 }
 
-.page {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1rem; 
+.grid {
+    max-width: 800px;
+    padding: 10rem;
 }
 
 h1 {
@@ -21,7 +20,6 @@ color: white;
 font-family: 'Lucida Grande';
 font-weight: bold;
 background-color: darkgreen;
-padding: .5rem;
 }
 
 p {
@@ -41,7 +39,6 @@ ul {
     color: white;
     background-color: darkgreen;
     font-family: Lucinda Sans Regular;
-    padding: 1rem;
 }
 
 ol {
