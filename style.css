@@ -8,14 +8,14 @@ body {
   padding: 1rem; 
 }
 
-h1 {
+.page_title {
     text-align: center;
     color: darkgreen;
-    font-family:'Lucida Grande', 
+    font-family:'Lucida Grande';
     font-weight: bold;
 }
 
-h2 {
+.section-header {
 text-align: center;
 color: white;
 font-family: 'Lucida Grande';
@@ -24,19 +24,19 @@ background-color: darkgreen;
 padding: .5rem;
 }
 
-p {
+.section-content {
     text-align: left;
     color: darkgreen;
     font-family: Lucinda Sans Regular;
 }
 
-h3 {
+.section-subtitle {
     text-align: left;
     color: darkgreen;
     font-family: 'Lucinda Grande';
 }
 
-ul {
+.review-list {
     text-align: left;
     color: white;
     background-color: darkgreen;
@@ -44,22 +44,22 @@ ul {
     padding: 1rem;
 }
 
-ol {
+.goals-list {
     text-align: left;
-    color: lightcoral;
+    color: darkred;
     font-family: Lucinda Sans Regular;
 }
 
-h4 {
+.checkpoint {
     text-align: canter;
     color: darkgreen;
     font-family: 'Lucinda Grande';
     font-weight: bold;
 }
 
-em {
+.side-note {
     text-align: center;
-    color: lightcoral;
+    color: darkred;
     font-family: 'Lucinda Grande';
     font-weight: bold;
 
