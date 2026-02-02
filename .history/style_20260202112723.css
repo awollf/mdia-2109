@@ -38,21 +38,7 @@ ul {
 
 ol {
     text-align: left;
-    color: lightcoral;
+    color: orangered;
     font-family: Lucinda Sans Regular;
 }
 
-h4 {
-    text-align: canter;
-    color: darkgreen;
-    font-family: 'Lucinda Grande';
-    font-weight: bold;
-}
-
-em {
-    text-align: center;
-    color: lightcoral;
-    font-family: 'Lucinda Grande';
-    font-weight: bold;
-
-}
