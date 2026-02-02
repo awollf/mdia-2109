@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(218, 255, 218);
+}
+
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem; 
+}
+
+.page_title {
+    text-align: center;
+    color: darkgreen;
+    font-family:'Lucida Grande';
+    font-weight: bold;
+}
+
+.section-header {
+text-align: center;
+color: white;
+font-family: 'Lucida Grande';
+font-weight: bold;
+background-color: darkgreen;
+padding: .5rem;
+}
+
+.section-content {
+    text-align: left;
+    color: darkgreen;
+    font-family: Lucinda Sans Regular;
+}
+
+.section-subtitle {
+    text-align: left;
+    color: darkgreen;
+    font-family: 'Lucinda Grande';
+}
+
+.review-list {
+    text-align: left;
+    color: white;
+    background-color: darkgreen;
+    font-family: Lucinda Sans Regular;
+    padding: 1rem;
+}
+
+.goals-list {
+    text-align: left;
+    color: darkred;
+    font-family: Lucinda Sans Regular;
+}
+
+.checkpoint {
+    text-align: canter;
+    color: darkgreen;
+    font-family: 'Lucinda Grande';
+    font-weight: bold;
+}
+
+.side-note {
+    text-align: center;
+    color: darkred;
+    font-family: 'Lucinda Grande';
+    font-weight: bold;
+
+}

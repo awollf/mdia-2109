@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(218, 255, 218);
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    font-family:'Lucida Grande', 
+    font-weight: bold;
+}
+
+h2 {
+text-align: center;
+color: white;
+font-family: 'Lucida Grande';
+font-weight: bold;
+background-color: darkgreen;
+}
+
+p {
+    text-align: left;
+    color: darkgreen;
+    font-family: Lucinda Sans Regular;
+}
+
+h3 {
+    text-align: left;
+    color: darkgreen;
+    font-family: 'Lucinda Grande';
+}
+
+ul {
+    text-align: left;
+    color: white;
+    background-color: darkgreen;
+    font-family: Lucinda Sans Regular;
+}
+

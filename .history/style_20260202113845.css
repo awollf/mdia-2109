@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(218, 255, 218);
+}
+
+.grid {
+    max-width: 800px;
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    font-family:'Lucida Grande', 
+    font-weight: bold;
+}
+
+h2 {
+text-align: center;
+color: white;
+font-family: 'Lucida Grande';
+font-weight: bold;
+background-color: darkgreen;
+}
+
+p {
+    text-align: left;
+    color: darkgreen;
+    font-family: Lucinda Sans Regular;
+}
+
+h3 {
+    text-align: left;
+    color: darkgreen;
+    font-family: 'Lucinda Grande';
+}
+
+ul {
+    text-align: left;
+    color: white;
+    background-color: darkgreen;
+    font-family: Lucinda Sans Regular;
+}
+
+ol {
+    text-align: left;
+    color: lightcoral;
+    font-family: Lucinda Sans Regular;
+}
+
+h4 {
+    text-align: canter;
+    color: darkgreen;
+    font-family: 'Lucinda Grande';
+    font-weight: bold;
+}
+
+em {
+    text-align: center;
+    color: lightcoral;
+    font-family: 'Lucinda Grande';
+    font-weight: bold;
+
+}
