@@ -1,0 +1,74 @@
+/* Any directly targetted elements, and their DEFAULT styles */
+table,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+img {
+    width: 20%;
+    float: left;
+    margin-right: 20px;
+}
+
+/* Any class examples, this code is not the most organized */
+.initial-example {
+    display: none;
+}
+
+.first {
+    background: pink;
+}
+
+.second {
+    background: salmon;
+    flex-grow:;
+}
+
+.third {
+    background: rosybrown;
+}
+
+.flex-demo {
+    padding: 30px;
+    height: 80vh;
+    border: 1px orangered dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    .box {
+        width: 20%;
+        height: 20%;
+        border: 1px solid red;
+    }
+}
+
+.grid-demo {
+    border: 1px orangered dashed;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+/* Any actual design patterns, this stuff below is quality code */
+/* .c-media {
+    display: flex;
+    border: 1px solid black;
+    justify-content: flex-start;
+    padding: 30px;
+    align-items: center;
+}
+
+.c-media__picture {
+    width: 40%;
+    margin-right: 20px;
+}
+
+.c-media--right-aligned {
+    flex-direction: row-reverse;
+
+    .c-media__picture {
+        margin-right: 0;
+        margin-left: 20px;
+    }
+} */
