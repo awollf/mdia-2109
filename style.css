@@ -1,66 +1,43 @@
 body {
-    background-color: rgb(218, 255, 218);
-}
-
-.page {
+  background-color: rgb(218, 255, 218);
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem; 
+  padding: 1rem;
+  font-family: 'Lucida Grande', 'Lucida Sans', sans-serif;
+  color: darkgreen;
 }
 
-.page_title {
-    text-align: center;
-    color: darkgreen;
-    font-family:'Lucida Grande';
-    font-weight: bold;
-}
-
-.section-header {
-text-align: center;
-color: white;
-font-family: 'Lucida Grande';
-font-weight: bold;
-background-color: darkgreen;
-padding: .5rem;
-}
-
-.section-content {
-    text-align: left;
-    color: darkgreen;
-    font-family: Lucinda Sans Regular;
-}
-
-.section-subtitle {
-    text-align: left;
-    color: darkgreen;
-    font-family: 'Lucinda Grande';
-}
-
-.review-list {
-    text-align: left;
-    color: white;
-    background-color: darkgreen;
-    font-family: Lucinda Sans Regular;
-    padding: 1rem;
-}
-
-.goals-list {
-    text-align: left;
-    color: darkred;
-    font-family: Lucinda Sans Regular;
-}
-
-.checkpoint {
-    text-align: canter;
-    color: darkgreen;
-    font-family: 'Lucinda Grande';
-    font-weight: bold;
-}
-
+h1 +
+h2 +
+h4 +
 .side-note {
-    text-align: center;
-    color: darkred;
-    font-family: 'Lucinda Grande';
+  font-family: 'Lucida Grande', 'Lucida Sans', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  padding: 0.5rem;
+  background-color: darkgreen;
+}
+
+h3 {
+  font-size: 1.125rem;
+  color: darkgreen;
+}
+
+ul {
+  text-align: left;
+  color: white;
+  background-color: darkgreen;
+  padding: 1rem;
+}
+
+ol
+.side-note {
+  color: darkred;
+}
     font-weight: bold;
 
 }
