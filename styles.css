@@ -1,0 +1,60 @@
+h1 {
+    color: darkcyan;
+}
+
+.heading-1 {
+    color: hotpink;
+}
+
+#heading-one {
+    color: rgb(120, 9, 64);
+}
+
+.header-container {
+    color: goldenrod;
+    border: 5px solid darkblue;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 8px;
+    padding-right: 6px;
+}
+
+.post {
+color: yellow; 
+border: 3px dashed brown
+}
+
+.post p,
+.post div {
+    color: darkblue;
+}
+/* can select mutliple elements if needed */
+
+.post__title {
+    text-decoration: underline;
+}
+
+.post__text {
+    color: purple;
+}
+
+/* 
+specifity 
+first number is: 
+second number is: class
+thrid number is: element
+the higher the number, the more likely it will be used. 
+0,0,1 will not be used over 0,1,0 and 1,1,1
+don't double up on selectins if not needed. 
+it is better to create a new class than to select multiple elements
+ */
+
+.post .post__disclaimer {
+    color: lightgray;
+    font-size:12px;
+    font-style: italic;
+}
+
+.post .post__disclaimer.final__disclaimer {
+    color: black;
+}
