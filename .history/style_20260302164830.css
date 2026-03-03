@@ -8,20 +8,13 @@ body {
     text-align: left;
 }
 
-em {
-    display: block;
-    padding-left: 2rem;
-    padding-top: 2rem;
-}
-
 h1 {
     font-weight: bold;
     color: darkgreen;
-    padding: 0rem;
+    padding: 0;
 }
 .section-content-header {
-    padding-bottom: 2rem;
-    font-weight: 1000;
+    padding: 0.25rem;
 }
 
 h2 {
@@ -32,7 +25,8 @@ h2 {
     padding: 0.5rem;
 }
 
-.section-content-1,
-.section-content-2 {
-    padding-bottom: 1rem;
+em {
+    display: block;
+    padding-left: 4rem;
+    padding-top: 2rem;
 }

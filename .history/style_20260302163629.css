@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(218, 255, 218);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: "Lucida Sans", sans-serif;
+    color: darkgreen;
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-family: "Lucida Grande", "Lucida Sans", sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    background-color: darkgreen;
+    padding: 0.5rem;
+}
